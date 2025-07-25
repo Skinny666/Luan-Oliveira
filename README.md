@@ -3,7 +3,7 @@
 <h1 align="center">Olá! Sou o Luan Oliveira</h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o4NmVhY3hnY2txdmppOHdtb3lmOTh0YTE1MTExdjkwZXA3aXZqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBNN8ChgJhXA8KNNFv/200.webp" width="2000"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o4NmVhY3hnY2txdmppOHdtb3lmOTh0YTE1MTExdjkwZXA3aXZqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBNN8ChgJhXA8KNNFv/200.webp" width="1000"/>
 </div>
 
 ---
