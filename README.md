@@ -1,9 +1,9 @@
 # Luan-Oliveira
 
-<h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center">Olá! Sou o Luan Oliveira</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o4NmVhY3hnY2txdmppOHdtb3lmOTh0YTE1MTExdjkwZXA3aXZqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBNN8ChgJhXA8KNNFv/200.webp)" width="100"/>
 </div>
 
 ---
@@ -17,11 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e soluções que faze
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/44/2/bubble-icon-logo-png_seeklogo-448116.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
 </div>
 
