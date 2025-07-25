@@ -26,28 +26,23 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e soluções que faze
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skinny666&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny666&layout=compact&theme=dracula"/>
+  <a href="https://github.com/Skinny666">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skinny666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Skinny666">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny666&layout=compact&theme=dracula&cache_seconds=86400"/>
+  </a>
 </div>
+
 
 ---
 
 ### 📱 Onde me encontrar
 
-<div align="center">
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://instagram.com/luaan.oliv.ra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_PERFIL/" target="_blank">
+  <a href="https://www.linkedin.com/in/luan-oliveira-000b44213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
