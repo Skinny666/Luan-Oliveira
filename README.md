@@ -17,22 +17,24 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e soluções que faze
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/bubble.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" height="40"/>
+  <img src="https://cdn.brandfetch.io/id6z4_raly/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40"/>
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Skinny666" style="display: inline-block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skinny666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Skinny666" style="display: inline-block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny666&layout=compact&theme=dracula&cache_seconds=86400"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Skinny666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny666&layout=compact&theme=dracula&card_width=420" width="420"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
